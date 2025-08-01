@@ -10,3 +10,7 @@ In `q1.ipynb`, I modeled $g_t(x)$ as $\beta_{t} * x$ and using linear regression
 # Problem 2
 We can thus formulate the problem of finding $x_i$'s as LP problem and can use any LP solver to compute them </br>
 find more in `q2.pdf`
+
+
+# NOTE
+You need to add the market data in the folder named `DATA/`. Since it's too large, I didn't add it
